@@ -35,7 +35,8 @@ Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes 
 ## Regras
 
 Para o desafio ficar mais interessante, decidimos criar umas regras básicas:
-- No layout, você deve utilizar Bootstrap 3
+- No layout, você deve utilizar Bootstrap 3. 
+- Estamos de olho em fortes skills em CSS, não tenha medo de inovar!
 - Na parte de JS, você pode utilizar Angular 6+ que é o que utilizamos na G4Flex, mas sinta-se a vontade ... 
 
 ## Por onde começo?
