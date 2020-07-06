@@ -6,7 +6,7 @@ Nós estamos sempre em busca de profissionais interessantes e interessados, com 
 
 Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório realizá-lo completamente, queremos apenas reconhecer seu esforço e potencial para aprender, se adaptar e tomar decisões.
 
-Ah, também não esqueça de mandar pra gente o seu currículo! Pode mandar para _amanda.esmeraldo@g4flex.com.br_ :green_heart:
+Também não esqueça de mandar pra gente o seu currículo! Pode mandar para _amanda.esmeraldo@g4flex.com.br_ :green_heart:
 
 Vamos ao teste! :grin:
 
